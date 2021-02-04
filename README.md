@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋, Iam Mola :tada:
+
+
+Hi, I'm MAHAdev or can be known as Sabil. 
+I am a beginner programmer who focuses on web development especially the Fullstack section. 
+get to know me more through the repository that I have created. 
+And here are a few things about myself in the programming world
+
 
 <!--
 **MOLAdev20/MOLAdev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
