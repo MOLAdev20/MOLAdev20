@@ -1,3 +1,5 @@
+![Gambar](https://www.petanikode.com/img/markdown/markdown-vscode.png)
+
 ## Hi there 👋, Iam Mola :tada:
 
 
