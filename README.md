@@ -1,4 +1,4 @@
-![Gambar](https://www.petanikode.com/img/markdown/markdown-vscode.png)
+![Gambar](https://github.com/MOLAdev20/MOLAdev20/blob/main/IMG-20200616-WA0002.jpg)
 
 ## Hi there 👋, Iam Mola :tada:
 
@@ -11,10 +11,20 @@ And here are a few things about myself in the programming world
 ## My Skills :wrench:
 > :heavy_check_mark: html.
 :heavy_check_mark: css.
+
+
 :heavy_check_mark: Javascript.
+
+
 :heavy_check_mark: PHP.
+
+
 :heavy_check_mark: Codeigniter 3.
+
+
 :heavy_check_mark: Laravel.
+
+
 
 
 <!--
