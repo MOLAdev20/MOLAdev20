@@ -1,4 +1,4 @@
-![Gambar](https://github.com/MOLAdev20/MOLAdev20/blob/main/IMG-20200616-WA0002.jpg)
+
 
 ## Hi there 👋, Iam Mola :tada:
 
@@ -8,7 +8,8 @@ I am a beginner programmer who focuses on web development especially the Fullsta
 get to know me more through the repository that I have created.
 And here are a few things about myself in the programming world
 
-## My Skills :wrench:
+## :pushpin: My Skills :wrench:
+### In Programming
 > :heavy_check_mark: html.
 :heavy_check_mark: css.
 
@@ -23,6 +24,46 @@ And here are a few things about myself in the programming world
 
 
 :heavy_check_mark: Laravel.
+
+
+### :pushpin: And I also master some software operations
+
+:computer: Adobe illustrator
+
+
+:computer: Adobe flash
+
+
+:computer: Adobe photoshop
+
+
+:computer: Coreldraw
+
+
+:computer: Sony Vegas video editor
+
+
+## What am I studying now
+
+:book: SASS
+
+
+:book: Advanced Laravel
+
+
+:book: Advanced API :fire:
+
+
+:book: Node.js
+
+
+:book: Android Studio ( I hope I will :smile: )
+
+
+# How to reach me? :hand:
+
+!(https://www.facebook.com/images/fb_icon_325x325.png) Sabiilul hikam azzuhrie
+!(https://www.instagram.com/images/fb_icon_325x325.png) Bill_hikam1212
 
 
 
