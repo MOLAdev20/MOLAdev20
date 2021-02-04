@@ -10,20 +10,22 @@ And here are a few things about myself in the programming world
 
 ## :pushpin: My Skills :wrench:
 ### In Programming
-> :heavy_check_mark: html.
-:heavy_check_mark: css.
+:heavy_check_mark: html
 
 
-:heavy_check_mark: Javascript.
+:heavy_check_mark: css
 
 
-:heavy_check_mark: PHP.
+:heavy_check_mark: Javascript
 
 
-:heavy_check_mark: Codeigniter 3.
+:heavy_check_mark: PHP
 
 
-:heavy_check_mark: Laravel.
+:heavy_check_mark: Codeigniter 3 :fire:
+
+
+:heavy_check_mark: Laravel 
 
 
 ### :pushpin: And I also master some software operations
@@ -62,8 +64,8 @@ And here are a few things about myself in the programming world
 
 # How to reach me? :hand:
 
-!(https://www.facebook.com/images/fb_icon_325x325.png) Sabiilul hikam azzuhrie
-!(https://www.instagram.com/images/fb_icon_325x325.png) Bill_hikam1212
+![img](https://www.facebook.com/images/fb_icon_325x325.png) Sabiilul hikam azzuhrie
+![ig](https://www.instagram.com/images/fb_icon_325x325.png) Bill_hikam1212
 
 
 
