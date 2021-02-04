@@ -64,8 +64,8 @@ And here are a few things about myself in the programming world
 
 # How to reach me? :hand:
 
-![img](https://www.facebook.com/images/fb_icon_325x325.png) Sabiilul hikam azzuhrie
-![ig](https://www.instagram.com/images/fb_icon_325x325.png) Bill_hikam1212
+### Facebook : Sabiilul hikam azzuhrie
+### Instagram : Bill_hikam1212
 
 
 
